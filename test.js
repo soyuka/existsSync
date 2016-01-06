@@ -1,3 +1,4 @@
+'use strict'
 const existsSync = require('./index.js')
 const assert = require('assert')
 
